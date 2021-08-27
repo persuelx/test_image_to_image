@@ -1,0 +1,8 @@
+Existing folder
+
+cd existing_folder
+git init
+git remote add origin https://git.c2cloud.cn/traffic/traffic-trt-serving.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
